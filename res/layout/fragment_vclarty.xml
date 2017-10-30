@@ -84,7 +84,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@id/v4a_tv_clarty"
                 android:layout_alignParentRight="true"
-                android:focusable="false" />
+                android:focusable="false"
+                android:inputType="textNoSuggestions" />
         </RelativeLayout>
 
         <RelativeLayout

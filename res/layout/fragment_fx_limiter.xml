@@ -40,7 +40,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@id/id_tv_output_pan"
                 android:layout_alignParentRight="true"
-                android:focusable="false" />
+                android:focusable="false"
+                android:inputType="textNoSuggestions" />
 
             <SeekBar
                 android:id="@id/id_sb_output_pan"
@@ -89,7 +90,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@id/id_tv_output_gain"
                 android:layout_alignParentRight="true"
-                android:focusable="false" />
+                android:focusable="false"
+                android:inputType="textNoSuggestions" />
 
             <SeekBar
                 android:id="@id/id_sb_output_gain"
@@ -138,7 +140,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@id/id_tv_limiter_threshold"
                 android:layout_alignParentRight="true"
-                android:focusable="false" />
+                android:focusable="false"
+                android:inputType="textNoSuggestions" />
 
             <SeekBar
                 android:id="@id/id_sb_limiter_threshold"

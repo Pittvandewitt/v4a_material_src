@@ -138,7 +138,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@id/v4a_tv_playback_output_threshold"
                 android:layout_alignParentRight="true"
-                android:focusable="false" />
+                android:focusable="false"
+                android:inputType="textNoSuggestions" />
 
             <SeekBar
                 android:id="@id/v4a_sb_playback_output_threshold"
