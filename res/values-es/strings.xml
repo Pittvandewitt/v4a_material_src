@@ -48,7 +48,7 @@ Su uso comercial no está permitido sin permiso oficial."</string>
     <string name="headset_title">Auriculares</string>
     <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
     <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
-    <string name="pref_analogx_strength_title">Seleccione la potencia</string>
+    <string name="pref_strength_title">Seleccione la potencia</string>
     <string name="pref_analogx_title">AnalogX</string>
     <string name="pref_colorfulmusic_title">Surround envolvente</string>
     <string name="pref_convolver_crosschannel_title">Seleccionar cross channel</string>
@@ -57,12 +57,10 @@ Su uso comercial no está permitido sin permiso oficial."</string>
     <string name="pref_convolver_title">Convolver</string>
     <string name="pref_curesystem_title">Sistema de protección auditiva</string>
     <string name="pref_diffsurr_title">Surround Diferencial</string>
-    <string name="pref_dynamicsystem_bass">Seleccione un bajo dinámico</string>
     <string name="pref_dynamicsystem_output">Dispositivo de escucha</string>
     <string name="pref_dynamicsystem_output_title">Seleccione dispositivo de escucha</string>
     <string name="pref_dynamicsystem_title">Sistema dinámico</string>
     <string name="pref_dynamicsystem_tube_title">Simulador de sonido de tubo (6N1J)</string>
-    <string name="pref_effect_title">Seleccionar potencia del efecto</string>
     <string name="pref_equalizer_preset_title">Seleccionar preset</string>
     <string name="pref_equalizer_title">FIREqualizer</string>
     <string name="pref_fetcompressor_adapt">Adaptar</string>
@@ -83,10 +81,8 @@ Su uso comercial no está permitido sin permiso oficial."</string>
     <string name="pref_fetcompressor_threshold">Umbral de trabajo</string>
     <string name="pref_fetcompressor_title">Compresor FET</string>
     <string name="pref_fidelity_vb_bassfreq_title">Seleccionar frecuencia de graves</string>
-    <string name="pref_fidelity_vb_bassgain_title">Seleccionar potencia de graves</string>
     <string name="pref_fidelity_vb_mode_title">Seleccionar el modo de bajos</string>
     <string name="pref_fidelity_vb_title">ViPER bass</string>
-    <string name="pref_fidelity_vc_bassgain_title">Seleccionar claridad</string>
     <string name="pref_fidelity_vc_mode_title">Seleccionar el modo de claridad</string>
     <string name="pref_fidelity_vc_title">ViPER clarity</string>
     <string name="pref_fx_limiter_threshold">Umbral límite</string>

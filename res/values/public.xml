@@ -415,6 +415,7 @@
     <public name="status" id="0x7f020078" type="drawable" />
     <public name="knob_default" id="0x7f020079" type="drawable" />
     <public name="knob_pressed" id="0x7f02007a" type="drawable" />
+    <public name="knob_point" id="0x7f02007b" type="drawable" />
     <public name="icon" id="0x7f030010" type="mipmap" />
     <public name="smalllogo" id="0x7f030034" type="mipmap" />
     <public name="add" id="0x7f030000" type="mipmap" />
@@ -422,17 +423,6 @@
     <public name="bgbig" id="0x7f030005" type="mipmap" />
     <public name="bglight" id="0x7f030006" type="mipmap" />
     <public name="input" id="0x7f030011" type="mipmap" />
-    <public name="knob_bg_10point" id="0x7f030013" type="mipmap" />
-    <public name="knob_bg_11point" id="0x7f030014" type="mipmap" />
-    <public name="knob_bg_12point" id="0x7f030015" type="mipmap" />
-    <public name="knob_bg_3point" id="0x7f030016" type="mipmap" />
-    <public name="knob_bg_5point" id="0x7f030017" type="mipmap" />
-    <public name="knob_bg_9point" id="0x7f030018" type="mipmap" />
-    <public name="knob_default" id="0x7f030019" type="mipmap" />
-    <public name="knob_point" id="0x7f03001a" type="mipmap" />
-    <public name="knob_press" id="0x7f03001b" type="mipmap" />
-    <public name="knob_style_default" id="0x7f03001c" type="mipmap" />
-    <public name="knob_style_press" id="0x7f03001d" type="mipmap" />
     <public name="minus" id="0x7f03001f" type="mipmap" />
     <public name="minus1" id="0x7f030020" type="mipmap" />
     <public name="old_btn_bg" id="0x7f030021" type="mipmap" />
@@ -593,7 +583,7 @@
     <public name="headset_title" id="0x7f06002b" type="string" />
     <public name="navigation_drawer_close" id="0x7f06002c" type="string" />
     <public name="navigation_drawer_open" id="0x7f06002d" type="string" />
-    <public name="pref_analogx_strength_title" id="0x7f06002e" type="string" />
+    <public name="pref_strength_title" id="0x7f06002e" type="string" />
     <public name="pref_analogx_title" id="0x7f06002f" type="string" />
     <public name="pref_colorfulmusic_title" id="0x7f060030" type="string" />
     <public name="pref_convolver_crosschannel_title" id="0x7f060031" type="string" />
@@ -602,12 +592,10 @@
     <public name="pref_convolver_title" id="0x7f060034" type="string" />
     <public name="pref_curesystem_title" id="0x7f060035" type="string" />
     <public name="pref_diffsurr_title" id="0x7f060036" type="string" />
-    <public name="pref_dynamicsystem_bass" id="0x7f060037" type="string" />
     <public name="pref_dynamicsystem_output" id="0x7f060038" type="string" />
     <public name="pref_dynamicsystem_output_title" id="0x7f060039" type="string" />
     <public name="pref_dynamicsystem_title" id="0x7f06003a" type="string" />
     <public name="pref_dynamicsystem_tube_title" id="0x7f06003b" type="string" />
-    <public name="pref_effect_title" id="0x7f06003c" type="string" />
     <public name="pref_equalizer_preset_title" id="0x7f06003d" type="string" />
     <public name="pref_equalizer_title" id="0x7f06003e" type="string" />
     <public name="pref_fetcompressor_adapt" id="0x7f06003f" type="string" />
@@ -628,10 +616,10 @@
     <public name="pref_fetcompressor_threshold" id="0x7f06004e" type="string" />
     <public name="pref_fetcompressor_title" id="0x7f06004f" type="string" />
     <public name="pref_fidelity_vb_bassfreq_title" id="0x7f060050" type="string" />
-    <public name="pref_fidelity_vb_bassgain_title" id="0x7f060051" type="string" />
     <public name="pref_fidelity_vb_mode_title" id="0x7f060052" type="string" />
     <public name="pref_fidelity_vb_title" id="0x7f060053" type="string" />
-    <public name="pref_fidelity_vc_bassgain_title" id="0x7f060054" type="string" />
+    <public name="pref_select_colorfulmusic_mi_title" id="0x7f060065" type="string" />
+    <public name="pref_select_colorfulmusic_title" id="0x7f060066" type="string" />
     <public name="pref_fidelity_vc_mode_title" id="0x7f060055" type="string" />
     <public name="pref_fidelity_vc_title" id="0x7f060056" type="string" />
     <public name="pref_fx_limiter_threshold" id="0x7f060057" type="string" />
@@ -648,11 +636,7 @@
     <public name="pref_reverb_title" id="0x7f060062" type="string" />
     <public name="pref_reverb_wet" id="0x7f060063" type="string" />
     <public name="pref_reverb_width" id="0x7f060064" type="string" />
-    <public name="pref_select_colorfulmusic_mi_title" id="0x7f060065" type="string" />
-    <public name="pref_select_colorfulmusic_title" id="0x7f060066" type="string" />
-    <public name="pref_select_cure_cf_title" id="0x7f060067" type="string" />
     <public name="pref_select_diffsurr_ms_title" id="0x7f060068" type="string" />
-    <public name="pref_select_vhs_qual_title" id="0x7f060069" type="string" />
     <public name="pref_spk_opt_title" id="0x7f06006a" type="string" />
     <public name="pref_spkfx_limiter_threshold" id="0x7f06006b" type="string" />
     <public name="pref_spkfx_limiter_title" id="0x7f06006c" type="string" />
@@ -663,7 +647,6 @@
     <public name="pref_viperddc_device_model" id="0x7f060071" type="string" />
     <public name="pref_viperddc_tips" id="0x7f060072" type="string" />
     <public name="pref_viperddc_title" id="0x7f060073" type="string" />
-    <public name="pref_vse_strength_title" id="0x7f060074" type="string" />
     <public name="pref_vse_tips" id="0x7f060075" type="string" />
     <public name="pref_vse_title" id="0x7f060076" type="string" />
     <public name="pref_xloud_output_amplifer" id="0x7f060077" type="string" />

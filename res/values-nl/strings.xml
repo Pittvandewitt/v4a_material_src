@@ -48,7 +48,7 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="headset_title">Hoofdtelefoon</string>
     <string name="navigation_drawer_close">Navigatiemenu sluiten</string>
     <string name="navigation_drawer_open">Navigatiemenu openen</string>
-    <string name="pref_analogx_strength_title">Sterkte</string>
+    <string name="pref_strength_title">Sterkte</string>
     <string name="pref_analogx_title">AnalogX</string>
     <string name="pref_colorfulmusic_title">Field surround</string>
     <string name="pref_convolver_crosschannel_title">Cross Channel</string>
@@ -57,12 +57,10 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="pref_convolver_title">Convolver</string>
     <string name="pref_curesystem_title">Gehoorbescherming</string>
     <string name="pref_diffsurr_title">Differentiaal surround</string>
-    <string name="pref_dynamicsystem_bass">Dynamische bas</string>
     <string name="pref_dynamicsystem_output">Apparaat</string>
     <string name="pref_dynamicsystem_output_title">Optie</string>
     <string name="pref_dynamicsystem_title">Dynamisch systeem</string>
     <string name="pref_dynamicsystem_tube_title">Electrodebuis simulator (6N1J)</string>
-    <string name="pref_effect_title">Effectsterkte</string>
     <string name="pref_equalizer_preset_title">Voorinstelling</string>
     <string name="pref_equalizer_title">Grafische equalizer</string>
     <string name="pref_fetcompressor_adapt">Aanpassen</string>
@@ -83,10 +81,8 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="pref_fetcompressor_threshold">Work threshold</string>
     <string name="pref_fetcompressor_title">FET Compressor</string>
     <string name="pref_fidelity_vb_bassfreq_title">Basfrequentie</string>
-    <string name="pref_fidelity_vb_bassgain_title">Basversterking</string>
     <string name="pref_fidelity_vb_mode_title">Basmodus</string>
     <string name="pref_fidelity_vb_title">ViPER Bas</string>
-    <string name="pref_fidelity_vc_bassgain_title">Sterkte</string>
     <string name="pref_fidelity_vc_mode_title">Modus</string>
     <string name="pref_fidelity_vc_title">ViPER Clarity</string>
     <string name="pref_fx_limiter_threshold">Limiteer threshold</string>
@@ -105,9 +101,7 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="pref_reverb_width">Geluidsveld</string>
     <string name="pref_select_colorfulmusic_mi_title">Middentonen</string>
     <string name="pref_select_colorfulmusic_title">Field surround sterkte</string>
-    <string name="pref_select_cure_cf_title">Binaurale sterkte</string>
     <string name="pref_select_diffsurr_ms_title">Vertragingstijd</string>
-    <string name="pref_select_vhs_qual_title">Effectsterkte</string>
     <string name="pref_spk_opt_title">Luidsprekeroptimalisatie</string>
     <string name="pref_spkfx_limiter_threshold">Limiteer threshold</string>
     <string name="pref_spkfx_limiter_title">Master</string>
@@ -118,7 +112,6 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="pref_viperddc_device_model">Model</string>
     <string name="pref_viperddc_tips">"ViPER-DDC wordt gebruikt voor de correctie van hoofdtelefoons. Bijna 500 koptelefoons worden ondersteund"</string>
     <string name="pref_viperddc_title">ViPER-DDC</string>
-    <string name="pref_vse_strength_title">Sterkte</string>
     <string name="pref_vse_tips">"Spectrum extensie wordt gebruikt om het bereik van lage kwaliteit audio te verhogen.
 Aanbevolen bij MP3, AAC en OOG bestanden"</string>
     <string name="pref_vse_title">Spectrum extensie</string>
