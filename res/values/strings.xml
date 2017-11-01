@@ -28,10 +28,6 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="about_version">Version %1$s (FX), Codename Beautiful</string>
     <string name="app_name">ViPER4Android FX</string>
     <string name="bluetooth_title">Bluetooth Device</string>
-    <string name="dsp_settings_bluetooth">Effect Settings - Bluetooth Device</string>
-    <string name="dsp_settings_headset">Effect Settings - Headset</string>
-    <string name="dsp_settings_speaker">Effect Settings - Phone Speaker</string>
-    <string name="dsp_settings_usb">Effect Settings - USB Device</string>
     <string name="eq_preset_acoustic">Acoustic</string>
     <string name="eq_preset_bass_booster">Bass Booster</string>
     <string name="eq_preset_bass_reducer">Bass Reducer</string>
@@ -117,7 +113,7 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="pref_xloud_output_amplifer">Output gain</string>
     <string name="pref_xloud_spk_highfreq">High response</string>
     <string name="pref_xloud_spk_lowfreq">Low response</string>
-    <string name="pref_xloud_title">eXtra loud</string>
+    <string name="pref_xloud_title">@string/pref_playback_title</string>
     <string name="speaker_title">Phone speaker</string>
     <string name="text_abnormal">Abnormal</string>
     <string name="text_about_title">About and credits</string>
@@ -232,9 +228,6 @@ Version %1$s (FX), Codename “Beautiful”.
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="navigation_toggle_drawer">Switch to Drawer view</string>
-    <string name="navigation_toggle_tabbed">Switch to Tab view</string>
-    <string name="text_drvinst_prefer">Please choose your preference</string>
     <string name="text_drvinst_sqdrv">"Super audio quality driver requires at least a dual-core cpu and may speed up battery drain. 
 Do you want to continue?"</string>
     <string name="text_enabled">Enabled</string>

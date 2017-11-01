@@ -28,10 +28,6 @@
     <string name="about_version">版本 %1$s (FX), 代码 “Beautiful”</string>
     <string name="app_name">ViPERFX</string>
     <string name="bluetooth_title">蓝牙设备</string>
-    <string name="dsp_settings_bluetooth">音效设定 - 蓝牙设备</string>
-    <string name="dsp_settings_headset">音效设定 - 耳机</string>
-    <string name="dsp_settings_speaker">音效设定 - 扬声器</string>
-    <string name="dsp_settings_usb">音效设定 - USB和音频底座</string>
     <string name="eq_preset_acoustic">原音音乐</string>
     <string name="eq_preset_bass_booster">低音强化</string>
     <string name="eq_preset_bass_reducer">低音弱化</string>
@@ -123,7 +119,7 @@ ViPER-DDC是一个用于耳机校准的HiFi音效。
     <string name="pref_xloud_output_amplifer">音量放大级别</string>
     <string name="pref_xloud_spk_highfreq">扬声器高响应频率</string>
     <string name="pref_xloud_spk_lowfreq">扬声器低响应频率</string>
-    <string name="pref_xloud_title">eXtra Loud</string>
+    <string name="pref_xloud_title">@string/pref_playback_title</string>
     <string name="speaker_title">扬声器</string>
     <string name="text_abnormal">出错</string>
     <string name="text_about_title">关于</string>

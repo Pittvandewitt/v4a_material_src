@@ -563,10 +563,6 @@
     <public name="about_version" id="0x7f060017" type="string" />
     <public name="app_name" id="0x7f060018" type="string" />
     <public name="bluetooth_title" id="0x7f060019" type="string" />
-    <public name="dsp_settings_bluetooth" id="0x7f06001a" type="string" />
-    <public name="dsp_settings_headset" id="0x7f06001b" type="string" />
-    <public name="dsp_settings_speaker" id="0x7f06001c" type="string" />
-    <public name="dsp_settings_usb" id="0x7f06001d" type="string" />
     <public name="eq_preset_acoustic" id="0x7f06001e" type="string" />
     <public name="eq_preset_bass_booster" id="0x7f06001f" type="string" />
     <public name="eq_preset_bass_reducer" id="0x7f060020" type="string" />
@@ -728,9 +724,6 @@
     <public name="appbar_scrolling_view_behavior" id="0x7f0600c3" type="string" />
     <public name="bottom_sheet_behavior" id="0x7f0600c4" type="string" />
     <public name="character_counter_pattern" id="0x7f0600c5" type="string" />
-    <public name="navigation_toggle_drawer" id="0x7f0600c6" type="string" />
-    <public name="navigation_toggle_tabbed" id="0x7f0600c7" type="string" />
-    <public name="text_drvinst_prefer" id="0x7f0600c8" type="string" />
     <public name="text_drvinst_sqdrv" id="0x7f0600c9" type="string" />
     <public name="text_enabled" id="0x7f0600ca" type="string" />
     <public name="text_forum_link" id="0x7f0600cb" type="string" />
@@ -1219,19 +1212,14 @@
     <public name="colorfulmusic_coeffs" id="0x7f0b0002" type="array" />
     <public name="colorfulmusic_midimage" id="0x7f0b0003" type="array" />
     <public name="compatible_mode" id="0x7f0b0004" type="array" />
-    <public name="conv_cross_channel" id="0x7f0b0005" type="array" />
     <public name="cure_crossfeed" id="0x7f0b0006" type="array" />
-    <public name="drvinst_prefer" id="0x7f0b0007" type="array" />
-    <public name="dynamicsystem_bass" id="0x7f0b0008" type="array" />
     <public name="dynamicsystem_outputs" id="0x7f0b0009" type="array" />
     <public name="multi_factor" id="0x7f0b000a" type="array" />
     <public name="output_db" id="0x7f0b000b" type="array" />
     <public name="output_volume" id="0x7f0b000c" type="array" />
     <public name="playbackgain_ratio" id="0x7f0b000d" type="array" />
-    <public name="reverb_percent" id="0x7f0b000e" type="array" />
     <public name="reverb_roomsize" id="0x7f0b000f" type="array" />
     <public name="reverb_roomwidth" id="0x7f0b0010" type="array" />
-    <public name="ui_prefer" id="0x7f0b0011" type="array" />
     <public name="vbass_boost" id="0x7f0b0012" type="array" />
     <public name="vbass_freq" id="0x7f0b0013" type="array" />
     <public name="vbass_mode" id="0x7f0b0014" type="array" />
@@ -1240,16 +1228,13 @@
     <public name="vhs_qual" id="0x7f0b0017" type="array" />
     <public name="amplification_db_values" id="0x7f0b0018" type="array" />
     <public name="analogx_mode_values" id="0x7f0b0019" type="array" />
-    <public name="channel_pan" id="0x7f0b001a" type="array" />
     <public name="channel_pan_values" id="0x7f0b001b" type="array" />
     <public name="colorfulmusic_coeffs_values" id="0x7f0b001c" type="array" />
     <public name="colorfulmusic_midimage_values" id="0x7f0b001d" type="array" />
     <public name="compatible_mode_values" id="0x7f0b001e" type="array" />
-    <public name="conv_cross_channel_values" id="0x7f0b001f" type="array" />
     <public name="cure_crossfeed_values" id="0x7f0b0020" type="array" />
     <public name="diffsurround_delay" id="0x7f0b0021" type="array" />
     <public name="diffsurround_delay_values" id="0x7f0b0022" type="array" />
-    <public name="drvinst_prefer_values" id="0x7f0b0023" type="array" />
     <public name="dynamicsystem_bass_values" id="0x7f0b0024" type="array" />
     <public name="dynamicsystem_outputs_values" id="0x7f0b0025" type="array" />
     <public name="equalizer_preset_modes" id="0x7f0b0026" type="array" />
@@ -1261,18 +1246,11 @@
     <public name="reverb_percent_values" id="0x7f0b002c" type="array" />
     <public name="reverb_roomsize_values" id="0x7f0b002d" type="array" />
     <public name="reverb_roomwidth_values" id="0x7f0b002e" type="array" />
-    <public name="speaker_highfreq" id="0x7f0b002f" type="array" />
-    <public name="speaker_highfreq_values" id="0x7f0b0030" type="array" />
-    <public name="speaker_lowfreq" id="0x7f0b0031" type="array" />
-    <public name="speaker_lowfreq_values" id="0x7f0b0032" type="array" />
-    <public name="ui_prefer_values" id="0x7f0b0033" type="array" />
     <public name="vbass_boost_values" id="0x7f0b0034" type="array" />
-    <public name="vbass_freq_values" id="0x7f0b0035" type="array" />
     <public name="vbass_mode_values" id="0x7f0b0036" type="array" />
     <public name="vclarity_boost_values" id="0x7f0b0037" type="array" />
     <public name="vclarity_mode_values" id="0x7f0b0038" type="array" />
     <public name="vhs_qual_values" id="0x7f0b0039" type="array" />
-    <public name="vse_strength_values" id="0x7f0b003a" type="array" />
     <public name="abc_input_method_navigation_guard" id="0x7f0c0000" type="color" />
     <public name="abc_search_url_text_normal" id="0x7f0c0001" type="color" />
     <public name="abc_search_url_text_pressed" id="0x7f0c0002" type="color" />
