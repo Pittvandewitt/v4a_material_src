@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<string name="abc_action_bar_home_description">Beginscherm</string>-->
-    <!--<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>-->
-    <!--<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>-->
-    <!--<string name="abc_action_bar_up_description">Omhoog navigeren</string>-->
-    <!--<string name="abc_action_menu_overflow_description">Meer opties</string>-->
-    <!--<string name="abc_action_mode_done">Klaar</string>-->
-    <!--<string name="abc_activity_chooser_view_see_all">Alles tonen</string>-->
-    <!--<string name="abc_activitychooserview_choose_application">Applicatie kiezen</string>-->
-    <!--<string name="abc_capital_off">UIT</string>-->
-    <!--<string name="abc_capital_on">AAN</string>-->
-    <!--<string name="abc_search_hint">Zoeken…</string>-->
-    <!--<string name="abc_searchview_description_clear">Zoekopdracht wissen</string>-->
-    <!--<string name="abc_searchview_description_query">Zoekopdracht vinden</string>-->
-    <!--<string name="abc_searchview_description_search">Zoek</string>-->
-    <!--<string name="abc_searchview_description_submit">Zoekopdracht indienen</string>-->
-    <!--<string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>-->
-    <!--<string name="abc_shareactionprovider_share_with">Delen met</string>-->
-    <!--<string name="abc_shareactionprovider_share_with_application">Delen met %s</string>-->
-    <!--<string name="abc_toolbar_collapse_description">Samenvouwen</string>-->
-    <!--<string name="status_bar_notification_info_overflow">999+</string>-->
-    <string name="about_company">"
-Copyright © 2006-2016, ViPER ACOUSTIC. All rights reserved.
-Without the official permission, commercial use is disallowed."</string>
+    <string name="about_company">Copyright © 2006-2016, ViPER ACOUSTIC. All rights reserved
+Zonder officiële toestemming is commercieel gebruik niet toegestaan</string>
     <string name="about_exit">Sluiten</string>
     <string name="about_forum">Officieel forum: forum.vipersaudio.com</string>
     <string name="about_version">Versie %1$s (FX), Codenaam Beautiful</string>
@@ -42,8 +21,8 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="eq_preset_treble_reducer">Hoge tonen vermindering</string>
     <string name="eq_preset_vocal_booster">Vocale versterking</string>
     <string name="headset_title">Hoofdtelefoon</string>
-    <!--<string name="navigation_drawer_close">Navigatiemenu sluiten</string>-->
-    <!--<string name="navigation_drawer_open">Navigatiemenu openen</string>-->
+    <string name="navigation_drawer_close">Navigatiemenu sluiten</string>
+    <string name="navigation_drawer_open">Navigatiemenu openen</string>
     <string name="pref_strength_title">Sterkte</string>
     <string name="pref_analogx_title">Versterker simulator</string>
     <string name="pref_colorfulmusic_title">Surround geluidsveld</string>
@@ -108,13 +87,11 @@ Without the official permission, commercial use is disallowed."</string>
     <string name="pref_viperddc_device_model">Model</string>
     <string name="pref_viperddc_tips">"ViPER-DDC wordt gebruikt voor de correctie van hoofdtelefoons. Bijna 500 koptelefoons worden ondersteund"</string>
     <string name="pref_viperddc_title">ViPER-DDC</string>
-    <string name="pref_vse_tips">"Spectrum extensie wordt gebruikt om het bereik van lage kwaliteit audio te verhogen.
-Aanbevolen bij MP3, AAC en OOG bestanden"</string>
+    <string name="pref_vse_tips">"Spectrum extensie wordt gebruikt om het bereik van lage kwaliteit audio te verhogen. Aanbevolen bij MP3, AAC en OOG bestanden"</string>
     <string name="pref_vse_title">Spectrum extensie</string>
     <string name="pref_xloud_output_amplifer">Output geluidssterkte</string>
     <string name="pref_xloud_spk_highfreq">Hoge frequentierespons</string>
     <string name="pref_xloud_spk_lowfreq">Lage frequentierespons</string>
-    <string name="pref_xloud_title">@string/pref_playback_title</string>
     <string name="speaker_title">Luidspreker</string>
     <string name="text_abnormal">Abnormaal</string>
     <string name="text_about_title">Overig en credits</string>
@@ -127,7 +104,6 @@ Aanbevolen bij MP3, AAC en OOG bestanden"</string>
     <string name="text_close_selinux">SELinux uitzetten</string>
     <string name="text_close_selinux_msg">SELinux zal uitgeschakeld zijn totdat het toestel herstart wordt. Probeer dit als de driverinstallatie niet lukt</string>
     <string name="text_commode">Compitabiliteitsmodus</string>
-    <string name="text_db">dB</string>
     <string name="text_default_storage">Standaardopslag instellen</string>
     <string name="text_disabled">Uitgeschakeld</string>
     <string name="text_down_ready">Klaar om te downloaden</string>
@@ -145,44 +121,36 @@ Sampling Rate: %7$d"</string>
     <string name="text_drvinst_busybox_not_installed">Installatie is mislukt omdat er geen juiste busybox is gevonden</string>
     <string name="text_drvinst_cfg_unsup">Installatie is mislukt omdat de ROM niet ondersteund wordt</string>
     <string name="text_drvinst_dataioerr">Installatie is mislukt vanwege een schrijffout. Herstart je toestel en probeer het opnieuw</string>
-    <string name="text_drvinst_failed">"Installatie is mislukt omdat busybox niet functioneert. Installeer Stericson's busybox of kijk of root beschikbaar is"</string>
+    <string name="text_drvinst_failed">Installatie is mislukt omdat busybox niet functioneert. Installeer Stericson\s busybox of kijk of root beschikbaar is</string>
     <string name="text_drvinst_ok">Driver geïnstalleerd. Herstart het apparaat om de functies te kunnen gebruiken</string>
     <string name="text_drvinst_sdnotmounted">/Installatie mislukt omdat de externe opslag niet is gekoppeld</string>
     <string name="text_drvuninst_confim">Wil je de driver deïnstalleren?</string>
     <string name="text_drvuninst_ok">Driver gedeïnstalleerd</string>
-    <string name="text_drvvernotmatch">"De driver moet opnieuw worden geïnstalleerd. Wil je dit nu doen?"</string>
+    <string name="text_drvvernotmatch">De driver moet opnieuw worden geïnstalleerd. Wil je dit nu doen?</string>
     <string name="text_enter_developer">Ontwikkelaarsmodus inschakelen</string>
-    <string name="text_enter_developer_msg">"Ontwikkelaarsmodus geeft toegang tot opties die schade kunnen aanbrengen aan je systeem. Ga verder op eigen risico"</string>
+    <string name="text_enter_developer_msg">Ontwikkelaarsmodus geeft toegang tot opties die schade kunnen aanbrengen aan je systeem. Ga verder op eigen risico</string>
     <string name="text_headset">Hoofdtelefoon</string>
     <string name="text_help_content">"***General help***
 
-'Install Driver' - Install/Update ViPER4Android effect driver.
-'Uninstall Driver' - Uninstall ViPER4Android effect driver.
-'FX Compatible Mode' - Set effect compatibility mode.
- 'Normaal' - Make ViPER4Android a global effect.
- 'Compitabel' - Make ViPER4Android a local effect.
+'Installeer Driver' - Installeer/Update ViPER4Android driver
+'Deïnstalleer Driver' - Deïnstaslleer ViPER4Android driver
+'FX Compitabale Modus' - Zet compitabiliteitsmodus aan
+ 'Normaal' - Stel ViPER4Android als een globaal effect in
+ 'Compitabel' - Stel ViPER4Android als een locaal effect in
 
-"<b>No V4A effect on all/most mediaplayers?</b>"
- You can switch the FX mode to compatible then restart your device and try again.
+"<b>Geen effect op (bijna) alle mediaspelers</b>"
+ Schakel FX modus in op de compitabiliteitsmodus. Herstart daarna je apparaat
 
-"<b>How to change driver audio quality?</b>"
- Uninstall driver in menu then restart your device and choose the quality you want.
-
-"<b>How to reduce battery consumption?</b>"
- When V4A is running in Normal Mode, switch off system sound settings including touch sounds and lock/unlock sounds to save up to 1.2~4 times battery life.
-
+"<b>Batterijverbruik verminderen</b>"
+ Schakel systeemgeluiden uit wanneer ViPER4Android in de normale modus opereert, inclusief aanraakgeluiden. Dit kan 1,2x tot 4x je batterijduur verlengen
+ 
 "<b>Forum: http://forum.xda-developers.com/showthread.php?t=2191223</b></string>
     <string name="text_help_title">Help</string>
     <string name="text_install">Driver installeren</string>
     <string name="text_ir_dir_isempty">ViPER4Android: The IR sample directory %1$s is empty.</string>
     <string name="text_loadfxprofile">Profiel laden</string>
     <string name="text_lockeffect">Effectmodus vergrendelen</string>
-    <string name="text_modifybuildprop">"ATTENTION:
-LPA is enabled on your device, this may cause V4A to malfunction.
-LPA, or 'Low Power Audio', can be disabled through modifying build.prop, which can be done automatically.
-We strongly recommend you to make a NANDROID or DATA BACKUP before proceeding!
-Do you wish to disable LPA now?"</string>
-    <string name="text_ms">ms</string>
+    <string name="text_modifybuildprop">Doordat Low Power Audio is ingeschakeld op je apparaat kan ViPER4Android niet goed functioneren. Door middel van een build.prop wijziging kan dit uitgeschakeld worden. Een NANDROID BACKUP maken wordt sterk aanbevolen! Wil je Low Power Audio nu uitschakelen?</string>
     <string name="text_newfxprofile">Nieuw effectprofiel</string>
     <string name="text_no">Nee</string>
     <string name="text_no_busybox">Busybox is niet gevonden op je toestel. Wil je nu busybox installeren?</string>
@@ -198,10 +166,9 @@ Do you wish to disable LPA now?"</string>
     <string name="text_showtrayicon">Notificatie tonen</string>
     <string name="text_speaker">Luidspreker</string>
     <string name="text_supported">Ondersteund</string>
-    <string name="text_token_lost">ViPER4Android wordt tijdelijk uitgeschakeld omdat een andere applicatie gebruik maakt van dezelfde geluidseffecten</string>
+    <string name="text_token_lost">ViPER4Android wordt tijdelijk uitgeschakeld omdat een andere app gebruik maakt van dezelfde driver</string>
     <string name="text_uninstall">Driver deïnstalleren</string>
     <string name="text_unsupported">Niet ondersteund</string>
-    <string name="text_update_download">Download</string>
     <string name="text_update_error">Informatie kan niet worden opgehaald vanwege een netwerkfout</string>
     <string name="text_update_get_version">Informatie ophalen</string>
     <string name="text_update_ignore">Negeren</string>
@@ -212,29 +179,24 @@ Do you wish to disable LPA now?"</string>
     <string name="text_usb">USB/Dock</string>
     <string name="text_yes">Ja</string>
     <string name="usb_title">USB/Dock</string>
-    <string name="about_text">"***About ViPER4Android***
+    <string name="about_text">"***Over ViPER4Android***
 
-'libv4a_xx_xx.so' is the kernel of ViPER4Android.
-Copyright © 2006-2016, ViPER ACOUSTIC. All rights reserved.
-Without the official permission, commercial use is disallowed.
-Official Forum: http://vipersaudio.com/blog/
+'libv4a_xx_xx.so' is de kernel van ViPER4Android
+Copyright © 2006-2016, ViPER ACOUSTIC. Alle rechten voorbehouden
+Zonder officiële toestemming is commercieel gebruik niet toegestaan
+Officieel Forum: http://vipersaudio.com/blog/
 
-'ViPER4Android.apk' is the visual control panel of ViPER4Android.
-Based on Cyanogenmod's DSPManager.
-Great thanks to Zhuhang@XDA
-Great thanks to M4570D0N@github, xLaMbChOpSx@github, bboa@github
+'ViPER4Android.apk' is het visuale controlepanel van ViPER4Android
+Gebaseerd op Cyanogenmod's DSPManager
+Met dank aan Zhuhang@XDA, pittvandewitt@xda, MrWhite214@xda
+Met dank aan M4570D0N@github, xLaMbChOpSx@github, bboa@github
 
-Version %1$s (FX), Codename “Beautiful”.
+Version %1$s (FX), Codename “Beautiful”
 "</string>
     <string name="about_title">Help en overige</string>
-    <!--<string name="text_enabled">Ingeschakeld</string>-->
-    <string name="text_forum_link">http://forum.xda-developers.com/showthread.php?t=2191223</string>
+    <string name="text_enabled">Ingeschakeld</string>
     <string name="text_hidetrayicon">Notificatie verbergen</string>
     <string name="text_uiprefer">UI instellingen</string>
     <string name="text_uiprefer_dialog">Voorkeur kiezen</string>
-    <string name="text_updatelink">http://vipersaudio.com/swupdate/viper4android/download.html</string>
     <string name="text_view_forum">Forum</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
 </resources>
