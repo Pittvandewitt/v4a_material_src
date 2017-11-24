@@ -143,8 +143,8 @@ Réglez ViPER4Android comme un effet global
 Compatibilité:
 Réglez ViPER4Android comme und effet local 
 
-Aucun effet sur (presque) tous les lecteurs multimédias:
-Activer le mode FX en mode compatibilité. Puis redémarrez votre appareil
+Aucun effet sur (presque) tous les lecteurs multim�dias:
+Activer le mode FX en mode compatibilit�. Puis red�marrez votre appareil
 
 Réduire la puissance de la batterie:
 Dêsactiver les sons du système lorsque ViPER4Android fonctionne en mode normal, y compris les sons tactiles. Cela peut prolonger la durée de vie de votre batterie de 1,2x tot 4x 
@@ -160,7 +160,7 @@ Dêsactiver les sons du système lorsque ViPER4Android fonctionne en mode normal
     <string name="text_no">Non</string>
     <string name="text_no_busybox">Busybox n\'a pas été trouvé sur votre appareil. Voulez-vous installer busybox maintenant?</string>
     <string name="text_normal">Normale</string>
-    <string name="text_ok">OUI</string>
+    <string name="text_ok">OK</string>
     <string name="text_open">Activé</string>
     <string name="text_profileload_tip">Appliquer le profil</string>
     <string name="text_profilesaved_overwrite">Souhaitez-vous personnaliser ce profil?</string>

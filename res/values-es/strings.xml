@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navegar al inicio</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
-    <string name="abc_action_menu_overflow_description">Más opciones</string>
-    <string name="abc_action_mode_done">Termimar</string>
-    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
-    <string name="abc_activitychooserview_choose_application">Seleccionar aplicación</string>
-    <string name="abc_capital_off">NO</string>
-    <string name="abc_capital_on">SÍ</string>
-    <string name="abc_search_hint">Buscar</string>
-    <string name="abc_searchview_description_clear">Borrar consulta</string>
-    <string name="abc_searchview_description_query">Consultar</string>
-    <string name="abc_searchview_description_search">Buscar</string>
-    <string name="abc_searchview_description_submit">Enviar consulta</string>
-    <string name="abc_searchview_description_voice">Búsqueda con voz</string>
-    <string name="abc_shareactionprovider_share_with">Compartir con</string>
-    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-    <string name="abc_toolbar_collapse_description">Colapsar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="about_company">"Copyright © 2006-2016, ViPER ACOUSTIC. Todos los derechos reservados
 Su uso comercial no está permitido sin permiso oficial"</string>
     <string name="about_exit">Salir</string>
@@ -78,8 +58,6 @@ Su uso comercial no está permitido sin permiso oficial"</string>
     <string name="pref_fidelity_vb_bassfreq_title">Seleccionar frecuencia de bajos</string>
     <string name="pref_fidelity_vb_mode_title">Seleccionar el modo de bajos</string>
     <string name="pref_fidelity_vb_title">Bajo ViPER</string>
-    <string name="pref_select_colorfulmusic_mi_title">Seleccionar fuerza media de imagen</string>
-    <string name="pref_select_colorfulmusic_title">Seleccionar fuerza del efecto envolvente</string>
     <string name="pref_fidelity_vc_mode_title">Seleccionar modo de claridad</string>
     <string name="pref_fidelity_vc_title">Claridad ViPER</string>
     <string name="pref_fx_limiter_threshold">Umbral</string>
@@ -96,6 +74,8 @@ Su uso comercial no está permitido sin permiso oficial"</string>
     <string name="pref_reverb_title">Reverberación</string>
     <string name="pref_reverb_wet">Señal en húmedo</string>
     <string name="pref_reverb_width">Campo sonoro</string>
+    <string name="pref_select_colorfulmusic_mi_title">Seleccionar fuerza media de imagen</string>
+    <string name="pref_select_colorfulmusic_title">Seleccionar fuerza del efecto envolvente</string>
     <string name="pref_select_diffsurr_ms_title">Seleccionar retraso</string>
     <string name="pref_spk_opt_title">Optimización de bocinas</string>
     <string name="pref_spkfx_limiter_threshold">Umbral</string>
@@ -112,7 +92,6 @@ Su uso comercial no está permitido sin permiso oficial"</string>
     <string name="pref_xloud_output_amplifer">Ganancia de salida</string>
     <string name="pref_xloud_spk_highfreq">Alta respuesta</string>
     <string name="pref_xloud_spk_lowfreq">Baja respuesta</string>
-    <string name="pref_xloud_title">@string/pref_playback_title</string>
     <string name="speaker_title">Bocina del teléfono</string>
     <string name="text_abnormal">Anormal</string>
     <string name="text_about_title">Acerca De y Créditos</string>
@@ -125,7 +104,6 @@ Su uso comercial no está permitido sin permiso oficial"</string>
     <string name="text_close_selinux">Desactivar SELinux</string>
     <string name="text_close_selinux_msg">SELinux será desactivado hasta que se reinicia el dispositivo. Intenta ésto sólo si han fallado otras maneras de activar el controlador.</string>
     <string name="text_commode">Modo compatible FX</string>
-    <string name="text_db">dB</string>
     <string name="text_default_storage">Especificar ruta de almacenamiento</string>
     <string name="text_disabled">Desactivado</string>
     <string name="text_down_ready">Listo para la descarga</string>
@@ -153,7 +131,7 @@ Frecuencia de Muestreo: %7$d"</string>
     <string name="text_enter_developer_msg">El modo desarrollador activa operaciones que pueden dañar tu dispositivo. Continúa bajo tu propio riesgo</string>
     <string name="text_headset">Audífonos</string>
     <string name="text_help_content">"Ayuda general
-
+ 
 Instalar Controlador:
 Instalar/Actualizar controlador ViPER4Android
 Desinstalar Controlador:
@@ -178,7 +156,6 @@ Cuando V4A está funcionando en modo Normal, desactiva los sonidos al tocar y bl
     <string name="text_loadfxprofile">Cargar perfil de efectos</string>
     <string name="text_lockeffect">Fijar efectos</string>
     <string name="text_modifybuildprop">El modo de Bajo Poder de Audio está activado en tu dispositivo; ésto podría causar fallos en el funcionamiento de ViPER4Android. Puede desactivarse editando el archivo build.prop. Se recomienda hacer un RESPALDO NANDROID previo a esta modificación. Deseas desactivar el modo de Bajo Poder de Audio ahora?</string>
-    <string name="text_ms">ms</string>
     <string name="text_newfxprofile">Nuevo Perfil de Efectos…</string>
     <string name="text_no">No</string>
     <string name="text_no_busybox">No se detectó Busybox en tu dispositivo. Instalar ahora?</string>
@@ -209,11 +186,6 @@ Cuando V4A está funcionando en modo Normal, desactiva los sonidos al tocar y bl
     <string name="text_yes">Sí</string>
     <string name="usb_title">USB/Dock</string>
     <string name="about_title">Ayuda y Acerca De</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="text_enabled">Activado</string>
-    <string name="text_forum_link">http://forum.xda-developers.com/showthread.php?t=2191223</string>
     <string name="text_hidetrayicon">Esconder notificación</string>
-    <string name="text_updatelink">http://vipersaudio.com/swupdate/viper4android/download.html</string>
 </resources>
