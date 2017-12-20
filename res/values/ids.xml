@@ -24,6 +24,7 @@
     <item name="buttonPanel" type="id">false</item>
     <item name="spacer" type="id">false</item>
     <item name="parentPanel" type="id">false</item>
+    <item name="topPanel" type="id">false</item>
     <item name="title_template" type="id">false</item>
     <item name="alertTitle" type="id">false</item>
     <item name="contentPanel" type="id">false</item>
